@@ -4,7 +4,7 @@
 💡 Aspiring Tech/DeFi/Web3 Innovator
 🛠️ Community Empowerment through Technology & Faith  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/YOURUSERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/pierre-jeremiah-merry/))
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:YOURMAIL@gmail.com)
 
 ---
