@@ -3,7 +3,8 @@
 <# 👋 Hey There! 👋
 
 🌟 Computer Science Student @ Howard University  
-💡 Aspiring Tech/DeFi/Web3 Innovator,
+💡 Aspiring Tech/DeFi/Web3 Innovator
+
 🛠️ Community Empowerment through Technology & Faith  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/YOURUSERNAME)
